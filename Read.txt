@@ -1,0 +1,1 @@
+This Repo is to track all the exercises done as part of lerning C (the hard way).
